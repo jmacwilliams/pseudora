@@ -1,1 +1,4 @@
 The goodness of Islandora, without Islandora.
+
+Decouple preservation and presentation/management.
+Decouple user interfaces from data structures.
