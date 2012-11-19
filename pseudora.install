@@ -1,0 +1,7 @@
+
+/**
+ * Fix incompatibility issue with islandora
+ */
+function pseudora_enable() {
+  module_disable(array('islandora'), TRUE);
+}
